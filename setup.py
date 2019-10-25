@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="brcs",
-    version="0.1.1",
+    version="0.1.2",
     author="Yushi Yang",
     description="Biased random colors",
     long_description=long_description,
