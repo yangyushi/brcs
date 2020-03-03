@@ -12,4 +12,6 @@ import brcs
 more_red    = brcs.get(color_number, bias=(1.0, 0.5, 0.5))
 more_purple = brcs.get(color_number, bias=(1.0, 0.5, 1.0))
 bright_red  = brcs.get(color_number, bias=(1.0, 0.5, 0.5), lightness=(0.6, 1.0))
+
+random_colormap = brcs.get(color_number)
 ```

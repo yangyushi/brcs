@@ -1,1 +1,1 @@
-from .brcs import get
+from .brcs import get, cmap
