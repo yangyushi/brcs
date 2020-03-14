@@ -1,9 +1,14 @@
 # Biased Random Colors
 
+## Install
+
+```sh
+pip install brcs
+```
+
 ## Description
 
 The module have a simple function `get` to get some random colors, represented by `(R, G, B)`, in the range between 0 and 1.
-
 
 ## How to use
 
